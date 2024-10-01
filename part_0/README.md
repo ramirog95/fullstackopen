@@ -1,1 +1,1 @@
-In this part, we familiarize with basics of web development and roughtly how evolved in the past decades.
+In this part, we familiarize with basics of web development and roughtly how has evolved in the last decades.
